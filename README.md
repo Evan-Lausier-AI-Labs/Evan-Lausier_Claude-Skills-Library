@@ -17,6 +17,7 @@ Evan-Lausier_Claude-Skills-Library/
 ├── Web_Artifacts/                ← React, HTML, frontend UI components
 ├── Creative/                     ← Canvas art, algorithmic visuals, Slack GIFs
 ├── Communication/                ← Internal comms, doc co-authoring
+├── NetSuite/                     ← NetSuite ERP operations (inventory transfers)
 └── Meta/                         ← Skill creation, MCP building, theming
 ```
 
@@ -38,6 +39,7 @@ Evan-Lausier_Claude-Skills-Library/
 | [Canvas Design](./Creative) | Creative | "poster", "art", "design", "illustration" | Original visual designs as .png or .pdf |
 | [Algorithmic Art](./Creative) | Creative | "generative art", "flow field", "p5.js" | p5.js algorithmic art with seeded randomness |
 | [Slack GIF](./Creative) | Creative | "GIF for Slack", "make me a GIF" | Optimized animated GIFs for Slack |
+| [Inventory Transfer](./NetSuite) | NetSuite | "transfer", "move inventory", "move items", "move serials", serial numbers | Create Inventory Transfer records to move serialized/non-serialized items between warehouse locations |
 | [Internal Comms](./Communication) | Communication | "status report", "leadership update", "newsletter" | Structured internal communications |
 | [Doc Co-authoring](./Communication) | Communication | "help me write a doc", "technical spec", "proposal" | Structured workflow for co-authoring documentation |
 | [Skill Creator](./Meta) | Meta | "create a skill", "edit a skill", "benchmark a skill" | Create, modify, and evaluate skill definitions |
